@@ -1,0 +1,10 @@
+.table-row-custom .row{
+    padding: 0px;
+    margin: 0px;
+}
+
+.sign-in-form{
+    padding-top: 50px;
+    padding-left: 35%;
+    padding-right: 35%;
+}
